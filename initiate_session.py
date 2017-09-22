@@ -23,7 +23,11 @@ def select_option(option):
 	elif option == "4":
 		print "More services?  How about you get to work finishing this app instead."
 	else:
-		print "I didn't understand that."
+		print "I didn't understand that.  Let's try again."
+		initiate()
 		
-option = begin_dialogue()
-select_option(option)
+def initiate():
+	option = begin_dialogue()
+	select_option(option)
+
+initiate()
