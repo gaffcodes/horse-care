@@ -4,6 +4,25 @@
 	{
 	"Odey",
 	"Lewis"
+	},
+	
+"services":
+	{
+	"shoes":
+	{
+	"September 22nd",
+	"",
+	"",
+	""
+	}
+	"worming":
+		{
+		"April 1st":"Moxidectin (Quest)",
+		"May 1st": "Pyrantel Pamoate (Exodus)",
+		"September 1st":"Fenbendazole (Safe Guard)",
+		"November 1st":"Ivermectin & Praziquantel (Equimax)"
+		}
+	
 	}
 
 
