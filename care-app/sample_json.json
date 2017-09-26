@@ -1,0 +1,17 @@
+{
+"name": "Horse History",
+
+    "horses": ["Odey", "Lewis"],
+
+    "events": [ 
+   	 {
+   		 "date": "2017-09-16",
+   		 "type": "shoes"
+   	 }],
+
+    "calories": {
+	   	"calories": [{"mets":3},{"mets":5},{"mets":10},{"mets":10},{"mets":7},{"mets":4},{"mets":0}],
+		"interval": 60
+    }
+
+	}

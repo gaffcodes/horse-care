@@ -1,0 +1,15 @@
+{
+"horses":["Odey","Lewis"],
+	
+"services":
+	{"shoes":
+		{"cycle": "Every 6 weeks"},
+	"worming":{
+		"cycle":"Seasonally",
+		"dates":
+			{"March 15th":"Moxidectin (Quest)",
+			"May 1st":"Pyrantel Pamoate (Exodus)",
+			"September 1st":"Fenbendazole (Safe Guard)",
+			"November 15th":"Ivermectin & Praziquantel (Equimax)"}}
+	}
+}
