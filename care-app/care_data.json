@@ -2,14 +2,22 @@
 "horses":["Odey","Lewis"],
 	
 "services":
-	{"shoes":
-		{"cycle": "Every 6 weeks"},
+	{"shoes":{
+		"cycle": "Every 6 weeks"},
 	"worming":{
 		"cycle":"Seasonally",
-		"dates":
-			{"March 15th":"Moxidectin (Quest)",
+		"dates":{
+			"March 15th":"Moxidectin (Quest)",
 			"May 1st":"Pyrantel Pamoate (Exodus)",
 			"September 1st":"Fenbendazole (Safe Guard)",
-			"November 15th":"Ivermectin & Praziquantel (Equimax)"}}
+			"November 15th":"Ivermectin & Praziquantel (Equimax)"}},
+	"vaccinations":{
+		"cycle": "Seasonally",
+		"dates":{
+			"Spring":"Spring shots",
+			"Fall":"Fall shots"},
+	"dental":{
+		"cycle":"Annually"}
+		}
 	}
 }
